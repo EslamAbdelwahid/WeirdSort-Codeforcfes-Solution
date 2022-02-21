@@ -1,0 +1,2 @@
+# WeirdSort-Codeforcfes-Solution
+WeirdSort
